@@ -20,8 +20,17 @@
 </head>
 
 <body>
-Fastlymon is shutting down. Sorry for the handful of people that used the data, but maintaining the site is not a priority. The source code is a mess, but if you would like to take a look and re-create send an email to fastlymon@oldsox.com
-
-
+<a href="https://www.fastly.com/">Fastly</a> exposes some of there usage statistics <a href="https://www.fastly.com/network-map">here.</a> Since they charge mostly by usage, this is to track some of those statistics.<br>
+<br>
+<a href="bandwidth-image.png">bandwidth graph</a>
+<br>
+<a href="hits-image.png">hits graph</a>
+<br>
+<a href="bandwidth-medians.html">bandwidth medians</a>
+<br>
+<a href="hits-medians.html">hits medians</a>
+<br>
+<a href="fastlymon.csv.zip">Latest CSV</a>
+<br>
 </body>
 </html>
